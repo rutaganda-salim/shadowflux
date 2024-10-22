@@ -25,7 +25,7 @@ To activate the theme:
 
 ## Preview
 
-![Preview of Shadow Flux Theme](link-to-your-preview-image)
+![Preview of Shadow Flux Theme](preview.png)
 
 ## Contributing
 
