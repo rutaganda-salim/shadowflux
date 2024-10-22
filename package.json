@@ -2,10 +2,11 @@
   "name": "shadowflux",
   "displayName": "Shadow Flux",
   "description": "Shadow Flux is a sleek, immersive theme with deep, shadowy tones and vibrant syntax highlighting. Designed to enhance focus and reduce eye strain for those who thrive in the dark.",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "icon": "icon.jpg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rutaganda-salim/shadow-flux"
+    "url": "https://github.com/rutaganda-salim/shadowflux"
   },
   "publisher": "SalimRutaganda",
   "engines": {
