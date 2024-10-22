@@ -1,0 +1,21 @@
+{
+  "name": "shadowflux",
+  "displayName": "ShadowFlux",
+  "description": "A sleek, immersive theme designed to enhance your coding expreience with deep, shadowy tones and vibrant syntax highlightis. Perfect for those who thrive in the dark , ShadowFlux provides a seamless blend of style and functionality, helping you focus on the flow of your code while reducing eye strain. Embrace the shadows, code in flux.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ShadowFlux",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ShadowFlux-color-theme.json"
+      }
+    ]
+  }
+}
