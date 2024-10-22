@@ -25,7 +25,7 @@ To activate the theme:
 
 ## Preview
 
-![Preview of Shadow Flux Theme](preview.png)
+![Preview of Shadow Flux Theme](https://github.com/rutaganda-salim/shadowflux/blob/master/preview.png?raw=true)
 
 ## Contributing
 
