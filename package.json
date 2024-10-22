@@ -1,8 +1,13 @@
 {
   "name": "shadowflux",
-  "displayName": "ShadowFlux",
-  "description": "A sleek, immersive theme designed to enhance your coding expreience with deep, shadowy tones and vibrant syntax highlightis. Perfect for those who thrive in the dark , ShadowFlux provides a seamless blend of style and functionality, helping you focus on the flow of your code while reducing eye strain. Embrace the shadows, code in flux.",
-  "version": "0.0.1",
+  "displayName": "Shadow Flux",
+  "description": "ShadowFlux is a sleek, immersive theme with deep, shadowy tones and vibrant syntax highlighting. Designed to enhance focus and reduce eye strain for those who thrive in the dark.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rutaganda-salim/shadow-flux"
+  },
+  "publisher": "SalimRutaganda",
   "engines": {
     "vscode": "^1.94.0"
   },
