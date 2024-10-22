@@ -1,7 +1,7 @@
 {
   "name": "shadowflux",
   "displayName": "Shadow Flux",
-  "description": "ShadowFlux is a sleek, immersive theme with deep, shadowy tones and vibrant syntax highlighting. Designed to enhance focus and reduce eye strain for those who thrive in the dark.",
+  "description": "Shadow Flux is a sleek, immersive theme with deep, shadowy tones and vibrant syntax highlighting. Designed to enhance focus and reduce eye strain for those who thrive in the dark.",
   "version": "1.0.0",
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
       {
         "label": "ShadowFlux",
         "uiTheme": "vs-dark",
-        "path": "./themes/ShadowFlux-color-theme.json"
+        "path": "./themes/ShadowFlux-color-theme.json",
+        "icon": "icon.jpg"
       }
     ]
   }
